@@ -43,3 +43,4 @@ The final completed database should have the following functionalities:
     1. This button appears on rows where the borrower is blank
     2. When no user is logged in, this button does not appear
     3. When clicked, the borrower column has the logged in user’s name and the “Borrow” button changed to “Return”
+    4. 
