@@ -1,3 +1,5 @@
+1906337 Mathew George
+
 We have a simple BookClub database that is maintaining a list of books, who has lent the book, and who has borrowed the book. We can also add new book entries, borrow and return books.
 
 The database looks something like this (The actions column will have buttons appearing conditionally based on the state of the application).
@@ -43,4 +45,4 @@ The final completed database should have the following functionalities:
     1. This button appears on rows where the borrower is blank
     2. When no user is logged in, this button does not appear
     3. When clicked, the borrower column has the logged in user’s name and the “Borrow” button changed to “Return”
-    4. 
+    
